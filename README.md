@@ -1,5 +1,7 @@
 <h3>Hello, I'm Frankie. 👋</h3>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=toFrankie&show_icons=true&hide=prs,contribs" />
+
 🔭 一名前端摸鱼工程师
 
 
@@ -9,7 +11,7 @@
 🌱 日常摸鱼日志，在简书更新，[前往主页...](https://www.jianshu.com/u/f4dac74bd955)
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=toFrankie&show_icons=true&hide=prs,contribs" />
+
 
 
 
