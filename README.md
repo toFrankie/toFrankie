@@ -8,7 +8,7 @@
 😄 保持渴望，养成习惯
 
 
-🌱 日常摸鱼日志在简书更新，[前往主页...](https://www.jianshu.com/u/f4dac74bd955)
+🌱 日常摸鱼日志在简书更新，[前往...](https://www.jianshu.com/u/f4dac74bd955)
 
 
 
