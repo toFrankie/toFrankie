@@ -1,4 +1,4 @@
-<h3 style="border-bottom: none">Hello ~  I'm Frankie 👋</h3>
+<h3 style="border-bottom: none">Hey, I'm Frankie 👋</h3>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=toFrankie&show_icons=true&hide=prs,contribs" />
 
