@@ -2,13 +2,13 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=toFrankie&show_icons=true&hide=prs,contribs" />
 
-🔭 前端摸鱼工程师
+🔭 前端划水工程师
 
 
 😄 保持渴望，养成习惯
 
 
-🌱 日常摸鱼日志在此处更新，[前往...](https://github.com/toFrankie/blog)
+🌱 日常划水内容在此处更新，[前往...](https://github.com/toFrankie/blog)
 
 
 
