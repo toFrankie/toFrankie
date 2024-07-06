@@ -1,6 +1,6 @@
 <h3 style="border-bottom: none">Hey, I'm Frankie 👋</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=toFrankie&text_color=1f2328&text_bold=false&ring_color=0969da&bg_color=f6f8fa&hide_title=true&hide_border=true&&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=toFrankie&text_color=1f2328&text_bold=false&ring_color=0969da&bg_color=f6f8fa&hide_title=true&hide_border=true&border_radius=6&count_private=true" />
 
 <!--
 **toFrankie/toFrankie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
