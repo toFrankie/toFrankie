@@ -1,20 +1,6 @@
 <h3 style="border-bottom: none">Hey, I'm Frankie 👋</h3>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=toFrankie&show_icons=true&hide=prs,contribs" />
-
-🔭 前端划水工程师
-
-
-😄 保持渴望，养成习惯
-
-
-🌱 日常划水内容在此处更新，[前往...](https://github.com/toFrankie/blog)
-
-
-
-
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=toFrankie&text_bold=false&ring_color=1f883d&hide_title=true" />
 
 <!--
 **toFrankie/toFrankie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
